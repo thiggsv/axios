@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nome": "Thiago",
+            "e-mail": "thiago@gmail.com"
+        },
+        {
+            "id": 2,
+            "nome": "Thamyres",
+            "email": "thamyres@gmail.com"
+        },
+        {
+            "id": 3,
+            "nome": "Vitória",
+            "e-mail": "vitoria@gmail.com"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "nome": "Creatina",
+            "Valor": 49.90
+        },
+        {
+            "id": 2,
+            "nome": "Whey Protein",
+            "Valor": 89.90
+        },
+        {
+            "id": 3,
+            "nome": "Pré Treino",
+            "Valor": 69.90
+        }
+    ]
+}
