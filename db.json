@@ -3,7 +3,7 @@
         {
             "id": 1,
             "nome": "Thiago",
-            "e-mail": "thiago@gmail.com"
+            "email": "thiago@gmail.com"
         },
         {
             "id": 2,
@@ -13,7 +13,7 @@
         {
             "id": 3,
             "nome": "Vitória",
-            "e-mail": "vitoria@gmail.com"
+            "email": "vitoria@gmail.com"
         }
     ],
     "products": [
